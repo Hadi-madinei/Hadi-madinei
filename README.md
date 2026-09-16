@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Hadi Madinei
 
-<!--
-**Hadi-madinei/Hadi-madinei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Lecturer in Aerospace Engineering at Swansea University, UK.
 
-Here are some ideas to get you started:
+My research focuses on nonlinear dynamics and control, structural dynamics,
+MEMS/NEMS, vibration energy harvesting, smart materials, micro-mechatronics,
+and experimental mechanics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Nonlinear Dynamics and Control
+- Structural Dynamics and Vibrations
+- MEMS/NEMS
+- Resonant Sensors and Micro-Mechanical Systems
+- Vibration Energy Harvesting
+- Smart Materials and Structures
+- Experimental Mechanics
+- Model Updating and Uncertainty Quantification
+
+## Research Software
+
+This GitHub profile contains selected MATLAB and Python codes, numerical
+models, simulation tools, and reproducible examples associated with my
+research and teaching.
+
+## Selected Research Areas
+
+My current research includes nonlinear MEMS resonators, bifurcation-based
+sensing, vibration energy harvesting, smart mechanical systems, and
+experimental characterisation of dynamic systems.
+
+## Contact
+
+**Dr Hadi Madinei**  
+Senior Lecturer in Aerospace Engineering  
+Swansea University, UK
